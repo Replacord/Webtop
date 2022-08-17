@@ -1,0 +1,10 @@
+{
+    "window":{
+        "height": 860,
+        "width": 540
+    },
+    "web":{
+        "staticDir":"./www",
+        "BrowserOutput":"./BrowserOutput"
+    }
+}
