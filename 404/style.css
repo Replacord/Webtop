@@ -1,0 +1,33 @@
+html{
+
+    background-color: red;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+h1{
+
+    color: white;
+    font-size: xx-large;
+    font-family: fantasy;
+
+}
+.e{
+
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: top;
+    align-items: top;
+
+}
+.e2{
+
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content:center;
+    align-items: end;
+
+}
